@@ -1,0 +1,38 @@
+
+      p
+{ text-align: center;
+}
+.h1{
+  font-style: italic;
+} 
+#fundo{
+  background-color: grey;
+}
+.paragrafo{
+  color: black;
+}
+.paragrafo2{
+  color: #0018ff;
+}
+  
+}
+.negrito{
+  color: bold;
+}
+   .span{
+font-weight: bold;
+}
+
+.frame{
+    text-align:center;
+    background:grey;
+    height:400px;
+    width:625px;
+    background-size:cover;
+}
+
+img {
+    diplay:inline-block;
+    width:45px;
+    height:45px;
+}
